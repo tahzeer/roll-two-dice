@@ -1,2 +1,2 @@
-# roll-two-dice
+# Two Dice Roll
 Python program using tkinter to roll two die for a random output
